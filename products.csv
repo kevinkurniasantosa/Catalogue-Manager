@@ -1,0 +1,4 @@
+Product,Manufacturer,Supplier,Purchase Date,Qty,Unit of Measure,Cost Price,Manufacturing Date,Expiry Date,Selling Price,Operational Cost,Stockout level(%),Schedule(days),Schedule Qty,Consumption,frequency
+ChAdOx1 nCoV-19 vaccine,AstraZeneca,AstraZeneca,1/4/21,10000,Ampoules,4,12/23/2020,3/31/2021,10,2,10,30,10000,300,daily
+Lyrica,Pfizer,EBOS,1/4/21,800,Boxes,385,2/12/20,1/25/2022,400,5,4,30,200,200,daily
+PENICILLIN V POTASSIUM 250 MG ORAL TABLET,TEVA PHARMACEUTICALS,"CARDINAL HEALTH, INC.",1/4/21,50000,Strips,25.72,11/12/20,2/2/22,29,3,20,30,15000,8000,daily
