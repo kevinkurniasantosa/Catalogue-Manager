@@ -1,4 +1,15 @@
-Manufacturer,Country,Product,Unit of Measure,Shelf Life(days)
-AstraZeneca,UK,ChAdOx1 nCoV-19 vaccine,Ampoules,90
-Pfizer,USA,Lyrica,Boxes,365
-TEVA PHARMACEUTICALS,USA,PENICILLIN V POTASSIUM 250 MG ORAL TABLET,Strips,500
+Manufacturer,Item
+Kalbe Farma,LEUPROLIDE ACETATE
+Tempo Scan Pacific,ENOXAPARIN SODIUM
+Kimia Farma,DENOSUMAB
+Kalbe Farma,DOCETAXEL
+Tempo Scan Pacific,ENOXAPARIN SODIUM
+Kimia Farma,EPINEPHRINE
+Kalbe Farma,EPINEPHRINE
+Tempo Scan Pacific,EPOETIN ALFA
+Kimia Farma,MEDROXYPROGESTERONE ACETATE
+Kalbe Farma,MORPHINE SULFATE
+Tempo Scan Pacific,VASOPRESSIN (USP)
+Kimia Farma,ALFENTANIL
+Kalbe Farma,DOXORUBICIN HYDROCHLORIDE
+Tempo Scan Pacific,FENTANYL

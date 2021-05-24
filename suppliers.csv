@@ -1,4 +1,15 @@
-"Supplier","Country","Product","Manufacturer","Unit of Measure","Unit Price","Lead Time(days)","Delivery Time(days)"
-"EBOS","Australia","Lyrica","Pfizer","Boxes",385,4,15
-"AstraZeneca","UK","ChAdOx1 nCoV-19 vaccine","AstraZeneca","Ampoules",4,20,5
-"CARDINAL HEALTH, INC.","USA","PENICILLIN V POTASSIUM 250 MG ORAL TABLET","TEVA PHARMACEUTICALS","Strips","25.72","3","10"
+Supplier,Manufacturer,Item
+Abbott Products Indonesia,Kalbe Farma,LEUPROLIDE ACETATE
+Anugrah Pharmindo Lestari,Tempo Scan Pacific,ENOXAPARIN SODIUM
+Rajawali Nusindo,Kimia Farma,DENOSUMAB
+Abbott Products Indonesia,Kalbe Farma,DOCETAXEL
+Anugrah Pharmindo Lestari,Tempo Scan Pacific,ENOXAPARIN SODIUM
+Rajawali Nusindo,Kimia Farma,EPINEPHRINE
+Abbott Products Indonesia,Kalbe Farma,EPINEPHRINE
+Anugrah Pharmindo Lestari,Tempo Scan Pacific,EPOETIN ALFA
+Rajawali Nusindo,Kimia Farma,MEDROXYPROGESTERONE ACETATE
+Abbott Products Indonesia,Kalbe Farma,MORPHINE SULFATE
+Anugrah Pharmindo Lestari,Tempo Scan Pacific,VASOPRESSIN (USP)
+Rajawali Nusindo,Kimia Farma,ALFENTANIL
+Abbott Products Indonesia,Kalbe Farma,DOXORUBICIN HYDROCHLORIDE
+Anugrah Pharmindo Lestari,Tempo Scan Pacific,FENTANYL
